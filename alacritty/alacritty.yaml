@@ -1,0 +1,11 @@
+window:
+  padding:
+    x: 5
+    y: 5
+  dimensions:
+    columns: 100
+    lines: 30
+  position:
+    x: 200
+    y: 200
+  
